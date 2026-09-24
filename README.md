@@ -12,3 +12,8 @@ This project demonstrates a simple GitHub collaboration workflow.
 - Create a branch
 - Make your changes
 - Submit a pull request
+
+## Project Motivation
+
+I created this project to practice Git and GitHub collaboration workflows.
+It helps me understand how teams manage changes, reviews, and contributions effectively.
